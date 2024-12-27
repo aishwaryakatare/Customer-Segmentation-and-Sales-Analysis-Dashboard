@@ -11,3 +11,4 @@ The goal of this project was to segment customers and analyze sales data to prov
 - **Sales Distribution Analysis** over time.
 - **State-wise profit and sales analysis.**
 
+![image alt](https://github.com/aishwaryakatare/Customer-Segmentation-and-Sales-Analysis-Dashboard/blob/48183a3fbb47fbb8d4d4fdec95000de24a041b28/Customer%20Segmentation/Dashboard/RFM-Analaysis.png)
