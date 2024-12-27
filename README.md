@@ -15,6 +15,4 @@ The goal of this project was to segment customers and analyze sales data to prov
 
 Here’s a preview of the dashboard with multiple images:
 
-![RFM Analysis](https://github.com/aishwaryakatare/Customer-Segmentation-and-Sales-Analysis-Dashboard/blob/e5d76cda53ae95c6a8343ff3e624fae98b9ee28d/Customer%20Segmentation/Dashboard/RFM-Analaysis.png)
-![Sales Analysis](https://github.com/aishwaryakatare/Customer-Segmentation-and-Sales-Analysis-Dashboard/blob/e5d76cda53ae95c6a8343ff3e624fae98b9ee28d/Customer%20Segmentation/Dashboard/Sales%20Analysis.png)
-![State Sales](https://github.com/aishwaryakatare/Customer-Segmentation-and-Sales-Analysis-Dashboard/blob/e5d76cda53ae95c6a8343ff3e624fae98b9ee28d/Customer%20Segmentation/Dashboard/State-Sales.png)
+![RFM Analysis](https://github.com/aishwaryakatare/Customer-Segmentation-and-Sales-Analysis-Dashboard/blob/5dc4d8cbd6b45dc9b23b99fd0f865cae6b2be89f/Customer%20Segmentation/Dashboard/Dashbord-Overview.png)
